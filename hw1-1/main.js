@@ -25,4 +25,3 @@ console.log(floatNumber);
 console.log(sixteen);
 console.log(boolTrue);
 console.log(boolFalse);
-
