@@ -8,7 +8,7 @@ let book1 = {
             age: "dead",
         }
     ]
-}
+};
 
 let book2 = {
     title: "The Witcher",
@@ -20,7 +20,7 @@ let book2 = {
             age: 77,
         }
     ]
-}
+};
 
 let book3 = {
     title: "The picture of Dorian Gray",
@@ -32,8 +32,8 @@ let book3 = {
             age: "dead",
         }
     ]
-}
+};
 
-console.log(book1)
-console.log(book2)
-console.log(book3)
+console.log(book1);
+console.log(book2);
+console.log(book3);
