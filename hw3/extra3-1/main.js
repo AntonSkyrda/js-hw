@@ -14,4 +14,14 @@ let stringArray = [
     "e",
 ];
 
+let diffArray = [
+    "q",
+    3.5,
+    true,
+    2,
+    "g",
+]
 
+console.log(numArray);
+console.log(stringArray);
+console.log(diffArray);

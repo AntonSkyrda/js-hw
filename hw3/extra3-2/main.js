@@ -1,17 +1,7 @@
-let numArray = [
-    1,
-    2,
-    3,
-    4,
-    5,
-];
+let arr = []
 
-let stringArray = [
-    "q",
-    "w",
-    "e",
-    "r",
-    "e",
-];
+for (let i = 0; i < 10; i++) {
+    arr[i] = i
+}
 
-
+console.log(arr)
