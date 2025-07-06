@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    width: 50%;
+    margin: 0 auto;
+    background-color: grey;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}
+
+.users-box {
+    background: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
