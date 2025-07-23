@@ -1,0 +1,41 @@
+main {
+    width: 40%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#content {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.itemDiv {
+    height: 50px;
+}
+
+
+.buttonWrapper {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+button {
+    height: 30px;
+    width: 100px;
+    background-color: royalblue;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+button:hover {
+    background-color: white;
+    color: royalblue;
+    border: solid 1px royalblue;
+}
