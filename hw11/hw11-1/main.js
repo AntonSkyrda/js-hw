@@ -46,11 +46,3 @@ fetch("https://dummyjson.com/carts?limit=50")
 });
 
 main.appendChild(cartsContainer);
-
-// // Could be GET or POST/PUT/PATCH/DELETE
-// fetch('https://dummyjson.com/carts?limit=50')
-//     .then(res => res.json())
-//     .then(data => {
-//         console.log(data);});
-//
-// /* { status: 'ok', method: 'GET' } */
